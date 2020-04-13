@@ -6,7 +6,8 @@ O desafio é desenvolver a página inicial de um site de avaliação de filmes (
 
 ## Requisitos
 
-Node v13.8.0 - ou superior, instalado em seu computador;
+Node v13.8.0 - ou superior, instalado em seu computador
+
 Live Server
 
 ## Executar
